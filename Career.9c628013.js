@@ -3,30 +3,30 @@ parcelRequire=function(e,r,n,t){var i="function"==typeof parcelRequire&&parcelRe
 },{}],"silv":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0,require("./index.css");var e=t(require("react")),r=t(require("classnames"));function t(e){return e&&e.__esModule?e:{default:e}}var a=function(t){var a=t.children,s=t.reversed,u=Array.isArray(a)?a:[a];return e.default.createElement("div",{className:(0,r.default)("ImageTextRow",s&&"ImageTextRow--reversed")},e.default.createElement("div",{className:"ImageTextRow__image"},u[0]),e.default.createElement("div",{className:"ImageTextRow__content"},u.filter(function(e,r){return 0!==r})))};exports.default=a;
 },{"./index.css":"54RJ","react":"1n8/","classnames":"9qb7"}],"ABZc":[function(require,module,exports) {
-module.exports="/career-hero-new-thumb.c7b8934f.jpg";
+module.exports="/wd-pages-pwa-test/career-hero-new-thumb.c7b8934f.jpg";
 },{}],"LGZ0":[function(require,module,exports) {
-module.exports="/career-hero-new.4703ba47.jpg";
+module.exports="/wd-pages-pwa-test/career-hero-new.4703ba47.jpg";
 },{}],"2xys":[function(require,module,exports) {
-module.exports="/career-photo1-thumb.98e8d69c.jpg";
+module.exports="/wd-pages-pwa-test/career-photo1-thumb.98e8d69c.jpg";
 },{}],"ySXb":[function(require,module,exports) {
-module.exports="/career-photo1.3e97d710.png";
+module.exports="/wd-pages-pwa-test/career-photo1.3e97d710.png";
 },{}],"LTOI":[function(require,module,exports) {
-module.exports="/career-photo2-thumb.6989f080.jpg";
+module.exports="/wd-pages-pwa-test/career-photo2-thumb.6989f080.jpg";
 },{}],"iUJ+":[function(require,module,exports) {
-module.exports="/career-photo2.f1e45474.png";
+module.exports="/wd-pages-pwa-test/career-photo2.f1e45474.png";
 },{}],"R72P":[function(require,module,exports) {
-module.exports="/career-photo3-thumb.631c60b8.jpg";
+module.exports="/wd-pages-pwa-test/career-photo3-thumb.631c60b8.jpg";
 },{}],"ZmYw":[function(require,module,exports) {
-module.exports="/career-photo3.2b4fc43d.png";
+module.exports="/wd-pages-pwa-test/career-photo3.2b4fc43d.png";
 },{}],"N8sg":[function(require,module,exports) {
-module.exports="/career-photo4-thumb.7502cc7a.jpg";
+module.exports="/wd-pages-pwa-test/career-photo4-thumb.7502cc7a.jpg";
 },{}],"j2An":[function(require,module,exports) {
-module.exports="/career-photo4.5411081f.jpg";
+module.exports="/wd-pages-pwa-test/career-photo4.5411081f.jpg";
 },{}],"PreC":[function(require,module,exports) {
-module.exports="/career-photo5-thumb.86aeb3a1.jpg";
+module.exports="/wd-pages-pwa-test/career-photo5-thumb.86aeb3a1.jpg";
 },{}],"5M21":[function(require,module,exports) {
-module.exports="/career-photo5.2cae34dd.jpg";
+module.exports="/wd-pages-pwa-test/career-photo5.2cae34dd.jpg";
 },{}],"R7Pt":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=P(require("react")),t=O(require("react-helmet")),r=O(require("../../../components/CssVars")),l=O(require("../../../components/MainTitle")),a=O(require("../../../components/SubTitle")),n=O(require("../../../components/Image")),u=O(require("../../../components/Chapter")),o=O(require("../../../components/ImageTextRow")),c=O(require("../../../components/CallToAction")),i=O(require("../../../components/LatestBlogPosts")),d=O(require("../../../components/Stats")),f=require("../../callToActions"),s=require("../../stats"),m=require("../../other"),p=O(require("./career-hero-new-thumb.jpg")),h=O(require("./career-hero-new.jpg")),g=O(require("./career-photo1-thumb.jpg")),E=O(require("./career-photo1.png")),b=O(require("./career-photo2-thumb.jpg")),y=O(require("./career-photo2.png")),q=O(require("./career-photo3-thumb.jpg")),w=O(require("./career-photo3.png")),v=O(require("./career-photo4-thumb.jpg")),W=O(require("./career-photo4.jpg")),j=O(require("./career-photo5-thumb.jpg")),k=O(require("./career-photo5.jpg"));function O(e){return e&&e.__esModule?e:{default:e}}function P(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var r in e)if(Object.prototype.hasOwnProperty.call(e,r)){var l=Object.defineProperty&&Object.getOwnPropertyDescriptor?Object.getOwnPropertyDescriptor(e,r):{};l.get||l.set?Object.defineProperty(t,r,l):t[r]=e[r]}return t.default=e,t}var S=function(){return e.default.createElement(e.Fragment,null,e.default.createElement(r.default,null,{"--color-accent":"#000000","--color-text-on-accent":"#fff"}),e.default.createElement(l.default,null,"Join the Pack"),e.default.createElement(a.default,null,"We believe happy people create the best workplace. Welcome to join our pack!"),e.default.createElement(n.default,{thumbSrc:p.default,src:h.default,alt:"Wunderdog crew"}),e.default.createElement(c.default,null,e.default.createElement(f.OpenPositions,null)),e.default.createElement(o.default,null,e.default.createElement(n.default,{thumbSrc:g.default,src:E.default,alt:"Wunderdogs"}),e.default.createElement("h4",null,"The most important thing is that we all enjoy being at work"),e.default.createElement("p",null,"We respect every employee regardless of gender, age, religion, sexual orientation or ethnic background.")),e.default.createElement(o.default,{reversed:!0},e.default.createElement(n.default,{thumbSrc:b.default,src:y.default,alt:"Wunderdogs"}),e.default.createElement("h4",null,"We actively avoid setting obstacles in our way"),e.default.createElement("p",null,"We recruit only intelligent and competent people who can make decisions independently. We are given freedom and responsibility accordingly.")),e.default.createElement(d.default,{useAccent:!0},e.default.createElement(s.FunStats,null)),e.default.createElement(o.default,null,e.default.createElement(n.default,{thumbSrc:q.default,src:w.default,alt:"Wunderdogs"}),e.default.createElement("h4",null,"We value our colleagues' success as much as our own"),e.default.createElement("p",null,"We support each other with our collective know-how, since, even though we are competent, none of us is master of everything.")),e.default.createElement(o.default,{reversed:!0},e.default.createElement(n.default,{thumbSrc:v.default,src:W.default,alt:"Wunderdogs"}),e.default.createElement("h4",null,"We share information openly and fairly amongst colleagues"),e.default.createElement("p",null,"By default, all company information is public to all our employees. We limit access to knowledge only for a good reason.")),e.default.createElement(o.default,null,e.default.createElement(n.default,{thumbSrc:j.default,src:k.default,alt:"Wunderdogs"}),e.default.createElement("h4",null,"We encourage bold and open-minded experimentation"),e.default.createElement("p",null,"We all fail sometimes. We believe that making a mistake and learning from it is far more important than not trying something for fear of failure. An important part of learning is to ask feedback - which we are always happy to give.")),e.default.createElement(i.default,{culture:!0},e.default.createElement(m.CareerBlogPostsContent,null)))};exports.default=S;
 },{"react":"1n8/","react-helmet":"jT85","../../../components/CssVars":"8c8v","../../../components/MainTitle":"yhea","../../../components/SubTitle":"qoDn","../../../components/Image":"cDXe","../../../components/Chapter":"2+jS","../../../components/ImageTextRow":"silv","../../../components/CallToAction":"Q+7j","../../../components/LatestBlogPosts":"GWRk","../../../components/Stats":"CdnT","../../callToActions":"iB78","../../stats":"4JYq","../../other":"jkys","./career-hero-new-thumb.jpg":"ABZc","./career-hero-new.jpg":"LGZ0","./career-photo1-thumb.jpg":"2xys","./career-photo1.png":"ySXb","./career-photo2-thumb.jpg":"LTOI","./career-photo2.png":"iUJ+","./career-photo3-thumb.jpg":"R72P","./career-photo3.png":"ZmYw","./career-photo4-thumb.jpg":"N8sg","./career-photo4.jpg":"j2An","./career-photo5-thumb.jpg":"PreC","./career-photo5.jpg":"5M21"}]},{},[], null)
-//# sourceMappingURL=/Career.1b0ab4c8.map
+//# sourceMappingURL=/wd-pages-pwa-test/Career.1b0ab4c8.map
