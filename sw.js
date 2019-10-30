@@ -281,7 +281,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0eeed164d491dff4519cf988def17afc"
+    "revision": "d712965a8913e69ecb7609a4ad814327"
   },
   {
     "url": "JasperVanGhemen.271422ec.js",
@@ -725,7 +725,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "b0b4a9e713d1d4a4d01734d669fb0717"
+    "revision": "d2c83391333bab23275cffbcfd0978fb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
