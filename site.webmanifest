@@ -1,1 +1,5 @@
-{"name":"Wunderdog","short_name":"Wunderdog","start_url":"https://ronkot.github.io/wd-pages-pwa-test/","icons":[{"src":"android-chrome-192x192.77e150f6.png","sizes":"192x192","type":"image/png"},{"src":"android-chrome-384x384.48c0229a.png","sizes":"384x384","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone","scope": "https://ronkot.github.io/wd-pages-pwa-test/"}
+{"name":"Wunderdog","short_name":"Wunderdog","start_url":"https://ronkot.github.io/wd-pages-pwa-test/","icons":[{
+  "src": "./android-chrome-512x512.png",
+  "sizes": "512x512",
+  "type": "image/png"
+},{"src":"android-chrome-192x192.77e150f6.png","sizes":"192x192","type":"image/png"},{"src":"android-chrome-384x384.48c0229a.png","sizes":"384x384","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone","scope": "https://ronkot.github.io/wd-pages-pwa-test/"}
