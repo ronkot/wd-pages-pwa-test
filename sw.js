@@ -730,4 +730,4 @@ self.__precacheManifest = [
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute('rastitesti3');
+workbox.routing.registerNavigationRoute('rastitesti4');
